@@ -76,3 +76,18 @@
 #      # In vitro
 #         # Take consistant lead sample
 #         # Store at -80
+
+### 7/10/25
+# #plants are planted in growth chambers
+
+### 7/29/25
+# Dr. Johnson helped with protocol
+# says original method in protocol is kinda inaccurate, suggests using model to combine a/ci curve and fluoresence measurements to measure
+# For this I would need a way to measure total leaf absorbance to PAR 
+# may be able to use both model and emperical data
+
+### 8/6/25
+# I think for experiment I need to use the original method
+# Amount of cyt b6f could be different in acclimated plants!!!
+# MAY NEED TO ANALYZE BEFORE USING MODEL TO ESTIMATE VMAX
+# look into/ ask dr smith about using licor for light response curves
