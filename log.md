@@ -91,3 +91,17 @@
 # Amount of cyt b6f could be different in acclimated plants!!!
 # MAY NEED TO ANALYZE BEFORE USING MODEL TO ESTIMATE VMAX
 # look into/ ask dr smith about using licor for light response curves
+
+### 9/5/25
+# plants died
+# replanted with different soil
+
+### 9/13/25
+# adjusted light and temperature level to step with time
+
+### 9/20/25
+# need to look at licor but should be able to program to get all the data i need
+# main focus on writing 1st chapter of proposal
+
+### 9/23/25
+# look at making custom model combining the 2 cytb6f models to have good temperature response.
