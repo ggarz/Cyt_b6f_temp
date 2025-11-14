@@ -1,0 +1,67 @@
+[Header]
+File opened	2025-10-17 14:39:21
+Console s/n	68C-901364
+Console ver	Bluestem v.2.1.11
+Scripts ver	2023.02  2.1.11, Jun 2023
+Head s/n	68H-581364
+Head ver	1.4.23
+Head cal	{"flowbzero": "0.28105", "co2bspan2a": "0.300636", "flowmeterzero": "2.49091", "h2oaspan2": "0", "co2aspan2a": "0.300986", "h2obspanconc2": "0", "h2obspanconc1": "11.69", "h2oaspan2b": "0.0649319", "chamberpressurezero": "2.62959", "h2oazero": "1.10043", "co2aspan2b": "0.297984", "h2obspan2b": "0.0654872", "h2obspan2": "0", "ssa_ref": "45138", "co2bspan1": "1.00051", "co2bspan2": "-0.0354637", "co2aspanconc2": "301.4", "h2obspan2a": "0.0647193", "co2aspanconc1": "2473", "co2bzero": "0.901409", "h2oaspanconc2": "0", "tbzero": "0.339216", "co2bspan2b": "0.297586", "ssb_ref": "50169", "h2oaspan2a": "0.0642495", "h2obspan1": "1.01187", "co2bspanconc1": "2473", "h2oaspanconc1": "11.69", "flowazero": "0.29401", "co2aspan1": "1.00063", "h2obzero": "1.10982", "co2bspanconc2": "301.4", "oxygen": "21", "co2azero": "0.900515", "co2aspan2": "-0.0352407", "h2oaspan1": "1.01062", "tazero": "0.20418"}
+Factory cal date	19 Oct 2023
+CO2 rangematch	Thu Oct  2 09:24
+H2O rangematch	Thu Oct  2 09:39
+Chamber type	6800-01A
+Chamber s/n	MPF-282120
+Chamber rev	0
+Chamber cal	0
+Fluorometer	MPF-282120
+Flr. Version	1.4.23
+14:39:21	Stability Definition:	ΔCO2 (Meas2): Slp<0.5 Per=20	ΔH2O (Meas2): Slp<0.1 Per=20	F (FlrLS): Per=20
+SysConst:AvgTime	4
+SysConst:Oxygen	21.0
+ChambConst:Chamber	6800-01A
+ChambConst:Aperture	6 cm²
+ChambConst:blc_a	0.578
+ChambConst:blc_b	0.5229739
+ChambConst:blc_c	0.003740252
+ChambConst:blc_d	-0.06197961
+ChambConst:blc_e	-0.005608586
+ChambConst:blc_minS	1
+ChambConst:blc_maxS	6
+ChambConst:blc_Po	96.9
+LTConst:deltaTw	0
+LTConst:fT1	0
+LTConst:fT2	0
+LTConst:fTeb	1.0
+LQConst:Leaf	standard
+LQConst:Ambient	Fluorescent
+LQConst:abs_ambient	0.76
+LQConst:abs_redLED	0.84
+LQConst:abs_greenLED	0.7
+LQConst:abs_blueLED	0.87
+LQConst:abs_whiteLED	0.75
+LQConst:abs_redFlr	0.84
+LQConst:abs_blueFlr	0.87
+LQConst:k_ambient	0.17250000000000001
+LQConst:k_redLED	0.1512
+LQConst:k_greenLED	0.161
+LQConst:k_blueLED	0.2262
+LQConst:k_whiteLED	0.1575
+LQConst:k_redFlr	0.1596
+LQConst:k_blueFlr	0.2175
+QConst:fQ_Amb_in	0.0
+QConst:fQ_Amb_out	0.0
+QConst:fQ_HeadLS	0.0
+QConst:fQ_ConsoleLS	0.0
+QConst:fQ_Flr	1.0
+LeakConst:fan_a	-6276.0
+LeakConst:fan_b	6.6
+LeakConst:fan_c	1.709e-05
+LeakConst:fan_d	3.11
+LeakConst:Fs_meas	4.17413 185.566 355.131 642.016 881.933 1090.39 1263.2 1410.44
+LeakConst:Fs_true	-0.397971 213.493 376.89 615.419 799.683 1006.02 1201.15 1401.14
+LeakConst:leak_wt	0
+[Data]
+SysObs	SysObs	SysObs	SysObs	SysObs	SysObs	UserDefCon	UserDefCon	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	GasEx	Leak	Leak	Leak	Leak	Leak	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	FLR	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	MPF	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	FastKntcs	LeafQ	LeafQ	LeafQ	LeafQ	Const	Const	Const	Const	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas	Meas2	Meas2	Meas2	Meas2	Meas2	Meas2	Meas2	Meas2	Meas2	Meas2	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrLS	FlrStats	FlrStats	FlrStats	FlrStats	FlrStats	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	MchEvent	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Stability	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Raw	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Status2	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	Auxiliary	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	MchStatus	ConStatus	ConStatus	ConStatus	ConStatus	ConStatus	ConStatus	ConStatus	ConStatus	Status	Status	Status	Status	Status	Status	Status	Status	Status	Status	Status	Status	Status	Status	Status	Status	
+obs	time	elapsed	date	hhmmss	averaging	id	machine	TIME	E	Emm	A	Ca	Ci	Pci	Pca	gsw	gbw	gtw	gtc	Rabs	TleafEB	TleafCnd	SVPleaf	RHcham	VPcham	SVPcham	VPDleaf	LatHFlux	SenHFlux	NetTherm	EBSum	Leak	LeakPct	CorrFact	CorrFactPct	Fan	DarkAdaptedID	Qmax_d	Fo	Fm	Fv/Fm	A_dark	LightAdaptedID	Qmax	Fs	Fm'	PhiPS2	PS2/1	Qabs_fs	A_fs	ETR	PhiCO2	NPQ	alt._Fo'	DarkPulseID	Fmin	Fo'	Fv'/Fm'	qP	qN	qP_Fo	qN_Fo	qL	1-qL	ID	P1_dur	P1_Fmax	T@P1_Fmax	Q@P1_Fmax	P1_PredF	P1_ΔF	P2_dur	P2_ramp	P2_int	P2_int_se	P2_slp	P2_slp_se	P2_R2	P2_dQdt	P3_dur	P3_Fmax	T@P3_Fmax	Q@P3_Fmax	P3_PredF	P3_ΔF	ID	Dur	DCo	InitSlope	Fo	F1	T@F1	T@HIR	F2	T@F2	DCmax	T@DCmax	PhiPS2_dc	Qin	Qabs	alpha	convert	S	K	Geometry	Custom	TIME	CO2_s	CO2_r	H2O_s	H2O_r	CO2_a	H2O_a	Flow	Pa	ΔPcham	Tair	Tleaf	Tleaf2	Offset	Offset2	Fan_speed	Qamb_in	Qamb_out	ΔCO2	CO2_s_d	CO2_r_d	ΔH2O	CO2_b	H2O_b	e_s	e_r	Td_s	Td_r	Q	f_red	f_blue	f_farred	F	Q_modavg	F_dc	Pc	Tled	TDigital	TPreamp	TPwrSpy	TDrive	Q_red	Q_blue	Q_farred	TSPF	state	F_avg	dF/dt	dF_dc/dt	F_dc_avg	period	time	hhmmss	co2_t	h2o_t	count	co2_adj	h2o_adj	co2_match	h2o_match	co2_at	h2o_at	co2_cv	h2o_cv	ΔCO2:MN	ΔCO2:SLP	ΔCO2:SD	ΔCO2:OK	F:MN	F:SLP	F:SD	F:OK	ΔH2O:MN	ΔH2O:SLP	ΔH2O:SD	ΔH2O:OK	Stable	Total	State	Vflow	VPchamber	abs_c_a	abs_c_b	abs_h_a	abs_h_b	Wc_s	Wc_r	Wco_s	Wco_r	Ww_s	Ww_r	Wwo_s	Wwo_r	Flow_s_v	Flow_r_v	Tleaf_mv	Tleaf2_mv	Tleaf_j	Tleaf2_j	Console_RH	Console_T	Console_H2O	Fan_%	Flow_%	Pump	Tchp_pwm	Txchg_pwm	diag_20v	diag_5_4v	diag_12v	diag_5va	diag_3_3vf	AccCO2_soda	AccH2O_des	CO2_hrs	AccH2O_hum	ADC_CH1	ADC_CH2	ADC_CH3	ADC_CH4	ADC_CH5	ADC_CH6	ADC_CH7	ADC_CH8	DAC_1	DAC_2	DAC_3	DAC_4	GPIO	GPIO_dir	excit_5v	power_12v	power_5v	ch1_pullup	AuxPower	MatchValveR	MatchValveS	MatchCO2	MatchH2O	cf_co2_a	cf_co2_b	cf_co2_c	cf_co2_d	cf_h2o_a	cf_h2o_b	cf_h2o_c	cf_h2o_d	co2_fit_low	co2_fit_high	h2o_fit_low	h2o_fit_high	co2_elapsed	h2o_elapsed	CO2_f	CO2_f_s	Pump_f	Pump_f_s	Pump_p	Pump_p_s	Tboard	V_system	DIAG	Flow_s	Flow_r	Txchg	Tirga	Tchopper	Ts	Tr	CO2_%	Desiccant_%	Humidifier_%	Txchg_sp	CO2_r_sp	H2O_r_sp	SS_s	SS_r	
+	s	s			s			s	mol m⁻² s⁻¹	mmol m⁻² s⁻¹	µmol m⁻² s⁻¹	µmol mol⁻¹	µmol mol⁻¹	Pa	Pa	mol m⁻² s⁻¹	mol m⁻² s⁻¹	mol m⁻² s⁻¹	mol m⁻² s⁻¹	W m⁻²	°C	°C	kPa	%	kPa	kPa	kPa	W m⁻²	W m⁻²	W m⁻²	W m⁻²	µmol s⁻¹	%		%	µmol s⁻¹						µmol m⁻² s⁻¹							µmol m⁻² s⁻¹	µmol m⁻² s⁻¹	µmol m⁻² s⁻¹	µmol µmol⁻¹														ms		ms	µmol m⁻² s⁻¹			ms	%			centimol m⁻² s⁻¹	centimol m⁻² s⁻¹		mol m⁻² s⁻²	ms		ms	µmol m⁻² s⁻¹				ms		s⁻¹			ms	ms		ms		ms		µmol m⁻² s⁻¹	µmol m⁻² s⁻¹		J/µmol	cm²			mol m⁻² s⁻¹	s	µmol mol⁻¹	µmol mol⁻¹	mmol mol⁻¹	mmol mol⁻¹	µmol mol⁻¹	mmol mol⁻¹	µmol s⁻¹	kPa	kPa	°C	°C	°C	°C	°C	rpm	µmol m⁻² s⁻¹	µmol m⁻² s⁻¹	µmol mol⁻¹	µmol mol⁻¹	µmol mol⁻¹	mmol mol⁻¹	µmol mol⁻¹	mmol mol⁻¹	kPa	kPa	°C	°C	µmol m⁻² s⁻¹					µmol m⁻² s⁻¹			°C	°C	°C	°C	°C	µmol m⁻² s⁻¹	µmol m⁻² s⁻¹	µmol m⁻² s⁻¹	s			min⁻¹	min⁻¹		s	secs		s	s		µmol/mol	mmol/mol	µmol/mol	mmol/mol	µmol/mol	mmol/mol	%	%	µmol mol⁻¹	µmol mol⁻¹ min⁻¹	µmol mol⁻¹			 min⁻¹			mmol mol⁻¹	mmol mol⁻¹ min⁻¹	mmol mol⁻¹					V	V													V	V	mV	mV	°C	°C	%	°C	mmol mol⁻¹	%	%		V	V	V	V	V	V	V	mg	mg	hrs	mg	V	V	V	V	V	V	V	V	V	V	V	V							V	%	%	µmol/mol	mmol/mol	µmol/mol				mmol/mol				µmol mol⁻¹	µmol mol⁻¹	mmol mol⁻¹	mmol mol⁻¹	min	min	V	V	V	V	V	V	°C	V		µmol s⁻¹	µmol s⁻¹	°C	°C	°C	°C	°C	%	%	%	°C	µmol mol⁻¹	mmol mol⁻¹	%	%	
+1	1760730669.1	0	20251017 14:51:09	14:51:09	5		ozzie	1760730660.6	0.016258123881586116	16.258123881586116	-91.94044572433562	470.90931249999994	440.19946539016627	39.45692192826305	42.209574157787245	-0.8632435831747077	0.578	-133.40033607741574	-2.752667108101536	0.000798094164	5.692063624260854	5.692063624260854	0.9190194256666971	33.69636331332226	0.9298309001114461	2.759439917790257	-0.010811474444748947	-716.9832631779477	528.2240667287546	173.1357334432642	-15.6226649117649	504.0	100	1	0	0	-	-	0	0	0	0	-	-	0	0	0	0.5	0	0	0	0	0	0	-	0	0	0	0	0	0	0	0	1	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	None	0.00500059	0.0042004956	0.84	0.1596	3.21	0.5	0: Broadleaf	2.0	1760730660.6	470.90931249999994	416.7985	10.373618749999999	0.044129743312500004	468.52250000000004	10.45370625	499.99756249999996	89.63888125	-0.00469259125	22.643437499999997	21.7078	999.9	0.0	0.0	0.0	0.0	0.220656	54.110656250000005	475.845375	416.816875	10.3295	416.7985	0.044129743312500004	0.929880625	0.00395558665	5.86166	-64.68003125	0.00500059	0.0	0.0	0.0	2.075	0.00500059	-21.200000000000003	-1.75625	32.992125	38.003875	35.062	40.531	35.773250000000004	0.0	0.0	0.0	1760730643	0.0	3.5999999999999996	20.89572648948894	-19.17264968466518	-22.946153846153848	15.0	0	--:--:--	0	0	0	0	0	0	0	0	0	0	0	53.95410952380952	2.0625662337662876	0.9302235583346221	0	1.947058823529412	27.52941187516006	6.735473925162193	-1	10.386176190476192	-1.0345168831169076	0.10636981716885267	0	0	2	0/2	3.12885	2.62987	0.0976982	0.0897422	0.0554675	0.000894477	34381.9	37205.8	34447.2	36980.6	45915.7	53036.4	53636.8	59024.7	0.304975	1.83633	0.186235	0	18.6341	999.9	39.415	26.203	15.0167	0	36.238	1	-0.341446	0	20.1498	5.19902	12.004	4.97575	3.2932	9999.0	9999.0	999.9	9999.0	1.86325	1.8681	1.86783	1.86905	1.86991	1.86595	1.86705	1.86844	5.0	0.0	0.0	0.0	11111111	oooooooo	off	off	off	off	0.0	100	100	2.384	-0.0806	0.735386519928015	0.0038252738197264175	-7.529882997762208e-07	2.3530235652090985e-10	-0.10234342051757565	-0.016904539524583918	0.0020445804062425446	-2.1399225347079863e-05	5.0	2167.0	1.0	29.0	29345511.2	29345511.2	0.880127	2.59277	1.54785	2.33398	1.64551	2.33765	30.6956	24.2364	18	1.16525	386.95	21.6439	22.8955	29.9999	23.0766	22.9676	17.6742	94.7261	0	-999.9	420	0	97.5719	95.6819	
